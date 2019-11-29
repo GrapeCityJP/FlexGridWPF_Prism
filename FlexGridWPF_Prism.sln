@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexGridWPF_Prism", "FlexGridWPF_Prism\FlexGridWPF_Prism.csproj", "{C37BB4A6-3D3D-4560-8FF7-E8B9160CEE89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigation", "Navigation\Navigation.csproj", "{BCEB793F-CC5D-47C1-BA76-FB413B835516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C37BB4A6-3D3D-4560-8FF7-E8B9160CEE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37BB4A6-3D3D-4560-8FF7-E8B9160CEE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37BB4A6-3D3D-4560-8FF7-E8B9160CEE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37BB4A6-3D3D-4560-8FF7-E8B9160CEE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEB793F-CC5D-47C1-BA76-FB413B835516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEB793F-CC5D-47C1-BA76-FB413B835516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEB793F-CC5D-47C1-BA76-FB413B835516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEB793F-CC5D-47C1-BA76-FB413B835516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3A8425-42DB-4C7F-BAC3-7B928E6AB8E3}
+	EndGlobalSection
+EndGlobal
